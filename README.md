@@ -46,7 +46,5 @@ const developer = {
 ```
 0x87D69eA3a72d33821DBA8e8757C4374572e23241
 ```
-
-[![](https://visitcount.itsvg.in/api?id=sujon0xff&label=Profile%20Views&color=6&icon=5&
-pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sujon0xff&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 </div>
